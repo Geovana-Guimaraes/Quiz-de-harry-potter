@@ -62,9 +62,9 @@ function verificarResposta(indiceClicado) {
 
     if (indiceClicado === respostaCorreta) {
         pontos++;
-        alert("Boa! Você acertou! ⚡");
+        alert("Boa! Você acertou!");
     } else {
-        alert("Errou! Que mancada... ❌");
+        alert("Errou! Que mancada...");
     }
 
 
